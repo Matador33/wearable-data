@@ -1,0 +1,44 @@
+Code Book	
+activity-name	Description of activity
+subject-key	Subject key (nb – assumed the same group of subjects, numbered the same way, for TEST and for TRAIN)
+avg tBodyAcc-meanX	Average for this subject and activity of the measurement tBodyAcc-meanX
+avg tBodyAcc-meanY	Average for this subject and activity of the measurement tBodyAcc-meanY
+avg tBodyAcc-meanZ	Average for this subject and activity of the measurement tBodyAcc-meanZ
+avg tBodyAcc-stdX	Average for this subject and activity of the measurement tBodyAcc-stdX
+avg tBodyAcc-stdY	Average for this subject and activity of the measurement tBodyAcc-stdY
+avg tBodyAcc-stdZ	Average for this subject and activity of the measurement tBodyAcc-stdZ
+avg tGravityAcc-meanX	Average for this subject and activity of the measurement tGravityAcc-meanX
+avg tGravityAcc-meanY	Average for this subject and activity of the measurement tGravityAcc-meanY
+avg tGravityAcc-meanZ	Average for this subject and activity of the measurement tGravityAcc-meanZ
+avg tGravityAcc-stdX	Average for this subject and activity of the measurement tGravityAcc-stdX
+avg tGravityAcc-stdY	Average for this subject and activity of the measurement tGravityAcc-stdY
+avg tGravityAcc-stdZ	Average for this subject and activity of the measurement tGravityAcc-stdZ
+avg tBodyAccJerk-meanX	Average for this subject and activity of the measurement tBodyAccJerk-meanX
+avg tBodyAccJerk-meanY	Average for this subject and activity of the measurement tBodyAccJerk-meanY
+avg tBodyAccJerk-meanZ	Average for this subject and activity of the measurement tBodyAccJerk-meanZ
+avg tBodyAccJerk-stdX	Average for this subject and activity of the measurement tBodyAccJerk-stdX
+avg tBodyAccJerk-stdY	Average for this subject and activity of the measurement tBodyAccJerk-stdY
+avg tBodyAccJerk-stdZ	Average for this subject and activity of the measurement tBodyAccJerk-stdZ
+avg tBodyGyro-meanX	Average for this subject and activity of the measurement tBodyGyro-meanX
+avg tBodyGyo-meanY	Average for this subject and activity of the measurement tBodyGyo-meanY
+avg tBodyGyro-meanZ	Average for this subject and activity of the measurement tBodyGyro-meanZ
+avg tBodyGyro-stdX	Average for this subject and activity of the measurement tBodyGyro-stdX
+avg tBodyGyro-stdY	Average for this subject and activity of the measurement tBodyGyro-stdY
+avg tBodyGyro-stdZ	Average for this subject and activity of the measurement tBodyGyro-stdZ
+avg tBodyGyroJerk-meanX	Average for this subject and activity of the measurement tBodyGyroJerk-meanX
+avg tBodyGyroJerk-meanY	Average for this subject and activity of the measurement tBodyGyroJerk-meanY
+avg tBodyGyroJerk-meanZ	Average for this subject and activity of the measurement tBodyGyroJerk-meanZ
+avg tBodyGyroJerk-stdX	Average for this subject and activity of the measurement tBodyGyroJerk-stdX
+avg tBodyGyroJerk-stdY	Average for this subject and activity of the measurement tBodyGyroJerk-stdY
+avg tBodyGyroJerk-stdZ	Average for this subject and activity of the measurement tBodyGyroJerk-stdZ
+avg tBodyAccMag-mean	Average for this subject and activity of the measurement tBodyAccMag-mean
+avg tBodyAccMag-std	Average for this subject and activity of the measurement tBodyAccMag-std
+avg tGravityAccMag-mean	Average for this subject and activity of the measurement tGravityAccMag-mean
+avg tGravityAccMag-std	Average for this subject and activity of the measurement tGravityAccMag-std
+avg tBodyAccJerkMag-mean	Average for this subject and activity of the measurement tBodyAccJerkMag-mean
+avg tBodyAccJerkMag-std	Average for this subject and activity of the measurement tBodyAccJerkMag-std
+avg tBodyGyroMag-mean	Average for this subject and activity of the measurement tBodyGyroMag-mean
+avg tBodyGyroMag-std	Average for this subject and activity of the measurement tBodyGyroMag-std
+avg tBodyGyroJerkMag-mean	Average for this subject and activity of the measurement tBodyGyroJerkMag-mean
+avg tBodyGyroJerkMag-std	Average for this subject and activity of the measurement tBodyGyroJerkMag-std
+
