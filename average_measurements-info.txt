@@ -1,4 +1,7 @@
 Code Book	
+
+All units are the same as implied by the code-book features.txt
+
 activity-name	Description of activity
 subject-key	Subject key (nb – assumed the same group of subjects, numbered the same way, for TEST and for TRAIN)
 avg tBodyAcc-meanX	Average for this subject and activity of the measurement tBodyAcc-meanX
